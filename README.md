@@ -1,4 +1,4 @@
-<h1 align="center"> Felipe &nbsp; Silva </h1>
+<h1 align="center"> Felipe Silva </h1>
 
 <p align="center">
   <i>Estudante de Engenharia da Computação &middot; Desenvolvedor Web &middot; Lógica & Design</i>
