@@ -1,76 +1,57 @@
 <div align="center">
-  <a href="https://github.com/febarbbosa">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=5C4033&center=true&vCenter=true&width=800&height=100&lines=Olá,+eu+sou+o+Felipe+Barbosa;Estudante+de+Engenharia+da+Computação;Desenvolvedor+Web+em+Evolução;Design+Visual,+Lógica+e+Soluções" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Fala,%20eu%20sou%20o%20Felipe!%20✌️&fontSize=50&fontAlignY=35&desc=Engenharia%20da%20Computação%20|%20Desenvolvedor%20Web&descAlignY=55&descSize=20&fontColor=ffffff" alt="Banner Felipe" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-da-silva-058926287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3e2723?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:fe.barbbosa@gmail.com"><img src="https://img.shields.io/badge/E--mail-3e2723?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/felipe-da-silva-058926287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fe.barbbosa@gmail.com"><img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
 
-### 👨‍💻 Sobre Mim & Stack Técnico
-<table width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h4>Visão Geral</h4>
-      Estudante de <b>Engenharia da Computação (2º semestre)</b> focado em transformar problemas complexos em soluções digitais acessíveis.<br><br>
-      Meu diferencial no código vem da minha base multidisciplinar: aplico a precisão exigida na gestão de processos administrativos e robótica, unida ao olhar crítico e estético desenvolvido na criação de interfaces e materiais visuais (Canva/Corel). O objetivo? Uma base <i>Full Stack</i> sólida.
-    </td>
-    <td width="45%" valign="top">
-      <h4>Tecnologias</h4>
-      <b>Interface & Front-End:</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" height="32" /><br>
-      <b>Lógica & Back-End:</b><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,py&theme=light" height="32" /><br>
-      <b>Ambiente & Versionamento:</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" height="32" />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 `whoami`
+
+Tenho 18 anos, estou no 2º semestre de Engenharia da Computação (SENAC) e sou fascinado por criar coisas do zero. Não sou muito fã de ficar apenas na teoria assistindo cursos; acredito que a gente aprende de verdade quando o código quebra e precisamos descobrir o porquê.
+
+Meu objetivo atual é construir uma base sólida para me tornar **Desenvolvedor Full Stack**. Venho de um background criativo e comunicativo (já desenhei muita identidade visual, lidei com gráfica e até dirigi um podcast estudantil). Hoje, aplico essa vontade de me comunicar e resolver problemas diretamente no código e nos projetos da faculdade.
+
+---
+
+## 🚀 O que estou construindo
+
+Em vez de focar em projetos genéricos de tutoriais, invisto meu tempo em coisas que resolvem problemas reais ou que me desafiam tecnicamente:
+
+### 1. 🧮 Plataforma Cálculo Zero
+Uma plataforma educacional completa focada em resolver o maior pesadelo de quem estuda exatas: a falta de base matemática. O sistema organiza os estudos através de pré-requisitos lógicos.
+* **Tamanho do monstro:** 12 disciplinas mapeadas, +350 tópicos e +1.500 subtópicos.
+* **Stack:** Feito no braço com `HTML`, `CSS`, e `JavaScript` puro.
+* 🔗 **[Acessar a Plataforma](https://febarbbosa.github.io/calculozero/)** | 📂 **[Repositório](https://github.com/febarbbosa/calculozero)**
+
+### 2. 🤖 Veículo Seguidor de Linha (Robótica)
+Projeto de integração de hardware e software que estou desenvolvendo em equipe com meus colegas da faculdade (Amon, Mike e Nicolle). O desafio aqui é aplicar a lógica de programação na vida real, lidando com sensores, motores e controle de trajetória.
+
+---
+
+## ⚡ Tech Stack & Estudos
+
+Abaixo estão as ferramentas que uso no dia a dia e as linguagens que estou dominando para chegar ao Full Stack.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,py,git,github,vscode&theme=dark" alt="Minhas Ferramentas" />
+</div>
 
 <br>
 
-### 🚀 Construindo na Prática
+* 🌐 **Front-End:** Dominando o ecossistema web com JavaScript, HTML5, CSS3 e Bootstrap.
+* ⚙️ **Back-End & Base:** Dando os primeiros passos na criação de APIs REST com Node.js, e estudando Python e Lógica para fortalecer minha capacidade analítica.
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3 align="center">🧮 Plataforma Cálculo Zero</h3>
-      <p align="center">
-        <i>Mapeamento de pré-requisitos lógicos para o ensino de matemática.</i>
-      </p>
-      <div align="center">
-        <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript Vanilla</code>
-      </div>
-      <br>
-      <ul>
-        <li><b>O Cenário:</b> Muitos alunos não avançam em exatas por possuírem lacunas na matemática básica.</li>
-        <li><b>A Plataforma:</b> Um sistema de estudos projetado por mim que organiza a curva de aprendizado. Hoje suporta <b>12 disciplinas</b>, <b>+350 tópicos</b> e <b>+1.500 subtópicos</b>, com laboratórios interativos em desenvolvimento.</li>
-      </ul>
-      <p align="center">
-        <a href="https://febarbbosa.github.io/calculozero/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Aplicação-654321?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/febarbbosa/calculozero"><img src="https://img.shields.io/badge/Código_Fonte-3e2723?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 🎧 Setup & Vibe
 
-### 📈 Além do Código
+Para mim, programar exige foco e um bom ambiente. 
+Quando estou resolvendo bugs ou estudando algoritmos, meu fone quase sempre está tocando algo na linha de música alternativa, pop e indie (de Charli XCX a Slayyyter). 
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Experiência do Usuário (UX)</h4>
-      Acredito que a tecnologia existe para as pessoas. Minha vivência em atendimento no varejo e suporte burocrático de alto volume (sistemas governamentais) me ensinou a projetar fluxos pensando sempre em quem está do outro lado da tela.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Liderança e Comunicação</h4>
-      Programação exige trabalho em equipe. Trago forte facilidade de comunicação lapidada pela atuação como Diretor do podcast <i>JupiterClub</i> e na organização de grêmios estudantis e clubes de criatividade.
-    </td>
-  </tr>
-</table>
+Se você curte tecnologia, desenvolvimento web ou tem alguma oportunidade de **Estágio/Júnior** onde eu possa colocar a mão na massa e aprender com gente mais experiente, me chama no [LinkedIn](https://www.linkedin.com/in/felipe-da-silva-058926287)!
+
+<p align="center"><i>"Feito é melhor que perfeito, mas a gente sempre pode refatorar."</i> 💻</p>
